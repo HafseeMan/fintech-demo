@@ -33,6 +33,19 @@ export default class Loan extends Component {
                                 <input type="number" class="form-control" placeholder="BVN"/>
                             </div>
                             <button type="submit" class="btn btn-black">Validate Account</button>
+
+                            <h3 className="text-light">STEP 2: Select Loan Details</h3>
+                            <div class="form-group">
+                                <label>Choose a loan amount</label>
+                                <input type="text" class="form-control" placeholder="N50,000"/>
+                            </div>
+                            <div class="form-group">
+                                <label>Loan Term</label>
+                                <input type="text" class="form-control" placeholder="50 days - 91 days"/>
+                            </div>
+                            <button type="submit" class="btn btn-light">Apply</button>
+
+                            
                         </form>
                         </div>
                     </div>
