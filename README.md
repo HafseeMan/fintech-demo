@@ -7,6 +7,6 @@ Makes use of the API https://github.com/enyata/innovation-sandbox-node/tree/mast
 
 How it looks:
 
-![alt text](https://github.com/hafseeman/fintech-demo/blob/master/screenshot(183).png?raw=true)
+![alt text](https://github.com/HafseeMan/fintech-demo/blob/master/Screenshot%20(183).png)
 
 
